@@ -6,7 +6,7 @@ A comprehensive analysis of Syntegra’s Medicare CCLF (Claims) dataset focused 
 
 ## Project Overview
 
-This project was completed as part of **BIA-810D: Healthcare and Advanced Data Analytics (Fall 2024)**. It analyzes de-identified Medicare **CCLF claims data** from **Syntegra.io**, focusing on **Cardio Vascular Metabolic (CVM) diseases**.
+This project was completed as part of **BIA-810D: Healthcare and Advanced Data Analytics (Fall 2025)**. It analyzes de-identified Medicare **CCLF claims data** from **Syntegra.io**, focusing on **Cardio Vascular Metabolic (CVM) diseases**.
 
 Using **Part A** and **Part B (DME & Physician)** claims, the analysis uncovers trends in CVM procedures, healthcare provider behavior, patient demographics, and provides **actionable sales and marketing recommendations**.
 
@@ -35,10 +35,9 @@ Using **Part A** and **Part B (DME & Physician)** claims, the analysis uncovers 
 
 **Supporting files:**
 
-* `Analysis.docx` – Additional methodology notes
-* `ImportantLinks.txt` – Reference links
-* `Muhammad_Dastgir.ipynb` – Primary analysis notebook
-* `Muhammad_Dastgir.pdf` / `.html` – Final reports
+* `Healthcare_Midterm_Analysis_Om_Final.html` – Additional methodology notes
+* `Healthcare_Midterm_Om_Final.ipynb` – Primary analysis notebook
+* `Healthcare_Midterm_Om_Finall.docx` – Final reports
 
 ---
 
@@ -101,28 +100,6 @@ Using **Part A** and **Part B (DME & Physician)** claims, the analysis uncovers 
 * HCP segmentation distribution by year
 * Age-bucket distribution of CVM claims
 * Year-over-year percentage change tables
-
----
-
-## Repository Structure
-
-```
-CVM_Syntegra_Insights/
-│
-├── beneficiary_demographics.csv
-├── parta_claims_header.csv
-├── parta_claims_revenue_center_detail.csv
-├── parta_diagnosis_code.csv
-├── parta_procedure_code.csv
-├── partb_dme.csv
-├── partb_physicians.csv
-├── Analysis.docx
-├── ImportantLinks.txt
-├── Muhammad_Dastgir.ipynb
-├── Muhammad_Dastgir.pdf
-├── Muhammad_Dastgir_new_submission.html
-└── README.md
-```
 
 ---
 
